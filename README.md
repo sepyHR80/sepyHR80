@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [sepeher heidari](https://github.com/sepyHR80)！I'm an intersted AI  👨‍💻 .**
+**I'm [sepeher heidari](https://github.com/sepyHR80)！I'm intersted in Software Engineering  👨‍💻 .**
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:heidarisepehr80@gmail.com)
@@ -12,7 +12,7 @@
 
 ## 🧐 About
 
-- 📫 How to reach me: test@gmail.com
+- 📫 How to reach me: heidarisepehr80@gmail.com
 - 🌱 Languages and Tools: 
 
     <div>
@@ -33,5 +33,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/parvvaresh/count.svg" />
+  <img src="https://profile-counter.glitch.me/sepyHR80/count.svg" />
 </p>
